@@ -1,7 +1,7 @@
 # structureDonneeCollection
 ## DequeApp.java
 * Menu principal 
-  - (i) insertLeft, 
+  	- (i) insertLeft, 
 	- (I) InsertRight, 
 	- (r) removeLeft, 
 	- (R) RemoveRight, 
