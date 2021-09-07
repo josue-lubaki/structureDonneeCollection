@@ -1,5 +1,5 @@
 ### Structure des Données (Collection)
-* DequeApp.java
-* LinkListApp.java
-* Recursivity
-* HashTableApp.java
+* [DequeApp.java](https://github.com/josue-lubaki/structureDonneeCollection/tree/main/src/Exercice_5_2)
+* [LinkListApp.java](https://github.com/josue-lubaki/structureDonneeCollection/tree/main/src/Exercice_5_3)
+* [Recursivity](https://github.com/josue-lubaki/structureDonneeCollection/tree/main/src/Exercice_6_3)
+* [HashTableApp.java](https://github.com/josue-lubaki/structureDonneeCollection/tree/main/src/Exercice_11_1)
